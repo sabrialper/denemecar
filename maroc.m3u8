@@ -1,0 +1,101 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="alaoula" tvg-name="Al Aoula" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/%D8%B4%D8%B9%D8%A7%D8%B1%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20Al%20Aoula%20Tv%20Logo.png" group-title="Morocco",Al Aoula
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="2m" tvg-name="2M" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/2M%20TV%20logo.png" group-title="Morocco",2M
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/2m/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="medi1tv-maghreb" tvg-name="Medi 1 TV Maghreb" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Medi%201%20tv%20logo.jpg" group-title="Morocco",Medi 1 TV Maghreb
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="medi1tv-arabic" tvg-name="Medi 1 TV Arabic" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Medi%201%20tv%20logo.jpg" group-title="Morocco",Medi 1 TV Arabic
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/medi1tv-arabic/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="arryadia" tvg-name="Arryadia" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%2Barryadia%2Bmorocco.png" group-title="Morocco",Arryadia
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/arryadia/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="alaoula-tnt" tvg-name="Al Aoula (TNT)" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/%D8%B4%D8%B9%D8%A7%D8%B1%20%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20Al%20Aoula%20Tv%20Logo.png" group-title="Morocco",Al Aoula (TNT)
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="2m-tnt" tvg-name="2M (TNT)" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/2M%20TV%20logo.png" group-title="Morocco",2M (TNT)
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="arryadia-tnt" tvg-name="Arryadia (TNT)" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%2Barryadia%2Bmorocco.png" group-title="Morocco",Arryadia (TNT)
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="arryadia-hd-01" tvg-name="Arryadia HD 01" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%2Barryadia%2Bmorocco.png" group-title="Morocco",Arryadia HD 01
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="arryadia-hd-02" tvg-name="Arryadia HD 02" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%2Barryadia%2Bmorocco.png" group-title="Morocco",Arryadia HD 02
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="arryadia-hd-03" tvg-name="Arryadia HD 03" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%2Barryadia%2Bmorocco.png" group-title="Morocco",Arryadia HD 03
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="m24maroc" tvg-name="M24 Maroc" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/LOGO-M24-VF-sans-texte.png" group-title="Morocco",M24 Maroc
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/m24maroc/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="laayounetv" tvg-name="Laâyoune TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Laayoune_Tv.png" group-title="Morocco",Laâyoune TV
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/laayounetv/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="almaghribia" tvg-name="Al Maghribia" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Almaghribiax2.png" group-title="Morocco",Al Maghribia
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/almaghribia/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="assadissa" tvg-name="Assadissa" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Assadissa%20logo.png" group-title="Morocco",Assadissa
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/assadissa/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="aflam" tvg-name="Aflam" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20tv%20med%20aflam.png" group-title="Morocco",Aflam
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/aflam/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="tamazight" tvg-name="Tamazight" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Tamazight-tv-chaine.png" group-title="Morocco",Tamazight
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/tamazight/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="athaqafia" tvg-name="Athaqafia" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20tv%20med%20Athaqafia.gif" group-title="Morocco",Athaqafia
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="telemaroc" tvg-name="Télé Maroc" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logotelemaroc.jpeg" group-title="Morocco",Télé Maroc
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/telemaroc/hls/master.m3u8
+
+#EXTINF:-1 tvg-id="chadatv" tvg-name="Chada TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Chadatv%20logo.png" group-title="Morocco",Chada TV
+#EXTVLCOPT:http-origin=https://livemediama.com
+#EXTVLCOPT:http-referrer=https://livemediama.com/
+https://stream-lb.livemediama.com/chadatv/hls/master.m3u8
